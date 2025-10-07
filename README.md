@@ -1,4 +1,4 @@
-# DEMO-CS-DATASAFE <small>(Updated 2025-10-7)</small>
+# DEMO-CS-DATASAFE <font size="4">(Updated on 2025-10-7)</font>
 
 This repository contains a demo website for CS DataSafe, intended for preliminary content preview and demonstration purposes only.
 
