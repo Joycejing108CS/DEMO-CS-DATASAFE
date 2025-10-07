@@ -10,16 +10,16 @@ This is a static HTML demo showcasing the CS DataSafe website design and content
 
 ### Method 1: Direct Browser Opening
 
-1. Clone or download this repository:
-git clone https://github.com/Joycejing10CS/DEMO-CS-DATASAFE.git
+1. <b>Clone or download this repository:</b>\
+   git clone https://github.com/Joycejing10CS/DEMO-CS-DATASAFE.git
 
-2. Locate the downloaded folder:
-- Find the DEMO-CS-DATASAFE folder on your computer (usually in your Downloads or wherever you cloned it)
+2. <b>Locate the downloaded folder:</b>\
+   Find the DEMO-CS-DATASAFE folder on your computer (usually in your Downloads or wherever you cloned it)
 
-3. Open the website:
-- Find the index.html file inside the folder
-- Double-click index.html to open it in your browser
-- OR right-click the file and select "Open with" → your preferred browser
+3. <b>Open the website:</b>\
+   Find the index.html file inside the folder\
+   Double-click index.html to open it in your browser\
+   OR right-click the file and select "Open with" → your preferred browser
 
 <b>Important</b>: Do NOT type any URLs in your browser. Simply open the file directly from your computer like you would open any document.
 
