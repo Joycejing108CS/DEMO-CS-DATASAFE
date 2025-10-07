@@ -81,6 +81,8 @@
             text-decoration: none;
             font-weight: bold;
             transition: all 0.3s;
+            display: inline-block;
+            margin-top: auto;
         }
 
         .cta-button:hover {
@@ -258,6 +260,15 @@
             text-align: center;
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             border-top: 4px solid #005A9C;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: 100%;
+        }
+
+        .card-content {
+            flex-grow: 1;
+            margin-bottom: 1.5rem;
         }
 
         .card h4 {
@@ -541,19 +552,25 @@
             </p>
             <div class="grid grid-4" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
                 <div class="card">
-                    <h4>Industry Security Assessment</h4>
-                    <p>Get a free evaluation of your security posture with industry-specific recommendations and compliance gap analysis.</p>
-                    <a href="#" class="cta-button" style="margin-top: 1rem;">Get Assessment</a>
+                    <div class="card-content">
+                        <h4>Industry Security Assessment</h4>
+                        <p>Get a free evaluation of your security posture with industry-specific recommendations and compliance gap analysis.</p>
+                    </div>
+                    <a href="#" class="cta-button">Get Assessment</a>
                 </div>
                 <div class="card">
-                    <h4>Industry-Specific Demo</h4>
-                    <p>See how CS DataSafe protects businesses like yours with a customized demonstration of relevant features.</p>
-                    <a href="#" class="cta-button" style="margin-top: 1rem;">Schedule Demo</a>
+                    <div class="card-content">
+                        <h4>Industry-Specific Demo</h4>
+                        <p>See how CS DataSafe protects businesses like yours with a customized demonstration of relevant features.</p>
+                    </div>
+                    <a href="#" class="cta-button">Schedule Demo</a>
                 </div>
                 <div class="card">
-                    <h4>Compliance Consultation</h4>
-                    <p>Speak with our compliance experts about meeting your industry's specific regulatory and security requirements.</p>
-                    <a href="#" class="cta-button" style="margin-top: 1rem;">Book Consultation</a>
+                    <div class="card-content">
+                        <h4>Compliance Consultation</h4>
+                        <p>Speak with our compliance experts about meeting your industry's specific regulatory and security requirements.</p>
+                    </div>
+                    <a href="#" class="cta-button">Book Consultation</a>
                 </div>
             </div>
         </div>
