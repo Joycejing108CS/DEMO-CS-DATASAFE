@@ -29,12 +29,12 @@ Then visit http://localhost:8000 in your browser.
 
 ## File Structure
 
-index.html - Homepage (main entry point)
-About.html - About page
-Contact.html - Contact page
-Industries.html - Industries page
-Pricing.html - Pricing page
-Solutions.html - Solutions page
+- index.html - Homepage (main entry point)
+- About.html - About page
+- Contact.html - Contact page
+- Industries.html - Industries page
+- Pricing.html - Pricing page
+- Solutions.html - Solutions page
 
 ## Note
 ⚠️ This is a demonstration repository for preview purposes only.
