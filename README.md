@@ -30,11 +30,11 @@ Then visit http://localhost:8000 in your browser.
 ## File Structure
 
 - index.html - Homepage (main entry point)
+- Solutions.html - Solutions page
+- Pricing.html - Pricing page
+- Industries.html - Industries page
 - About.html - About page
 - Contact.html - Contact page
-- Industries.html - Industries page
-- Pricing.html - Pricing page
-- Solutions.html - Solutions page
 
 ## Note
 ⚠️ This is a demonstration repository for preview purposes only.
